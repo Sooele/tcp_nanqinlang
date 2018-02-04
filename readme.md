@@ -36,5 +36,7 @@ https://sometimesnaive.org/article/linux/bash/tcp_nanqinlang
 
 
 使用：
+```
 wget https://github.com/nanqinlang-tcp/tcp_nanqinlang/releases/download/rinetd-linhua/tcp_nanqinlang-rinetd.sh
 bash tcp_nanqinlang-rinetd.sh
+```
