@@ -1,3 +1,14 @@
+
+使用：
+下载
+```
+wget https://github.com/nanqinlang-tcp/tcp_nanqinlang/releases/download/rinetd-linhua/tcp_nanqinlang-rinetd.sh
+```
+执行
+```
+bash tcp_nanqinlang-rinetd.sh
+```
+
 # tcp_nanqinlang
 
 [![build](https://github.com/nanqinlang/SVG/blob/master/build%20passing.svg)](https://github.com/nanqinlang-tcp/tcp_nanqinlang)
@@ -35,10 +46,4 @@ https://github.com/nanqinlang/tcp_nanqinlang/releases
 https://sometimesnaive.org/article/linux/bash/tcp_nanqinlang
 
 
-使用：
-```
-wget https://github.com/nanqinlang-tcp/tcp_nanqinlang/releases/download/rinetd-linhua/tcp_nanqinlang-rinetd.sh
-```
-```
-bash tcp_nanqinlang-rinetd.sh
-```
+
